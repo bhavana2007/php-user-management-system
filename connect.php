@@ -5,7 +5,6 @@ $conn = mysqli_connect(
     "root",
     "",
     "portfolio_db",
-    3307
 );
 
 if(!$conn){
